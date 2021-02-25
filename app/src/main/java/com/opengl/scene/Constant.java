@@ -23,7 +23,7 @@ public class Constant {
     public static Object lock = new Object();
 
     //--------- 控制方式 1、 通过屏幕倾斜控制  2、触摸控制  3、手机旋转控制
-    public static int kControlType = 3;
+    public static int kControlType = 2;
 
     //--------- 陆地chunk块相关，整块陆地地形是由各种陆地chunk块拼接而成
     public static final float kLandChunkUnitSize = 60.0f;   // chunk块单位尺寸，可以用来决定chunk块尺寸
