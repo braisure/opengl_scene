@@ -1318,3 +1318,4 @@ app/build/outputs/sdk-dependencies/release/sdkDependencies.txt
 app/build/reports/lint-results-release-fatal.html
 app/build/reports/lint-results-release-fatal.xml
 build/intermediates/lint-cache/sdk-registry.xml/sdk-registry.xml
+app/build/outputs/apk/debug/qingning_world_large-debug.apk
